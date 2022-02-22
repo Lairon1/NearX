@@ -1,0 +1,6 @@
+name: NearX
+version: '${project.version}'
+main: com.deathspirit.nearx.NearX
+api-version: 1.18
+authors: [ SpiritDev ]
+description: Лучший /near для вашего сервера
