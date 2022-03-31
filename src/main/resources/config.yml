@@ -1,0 +1,9 @@
+Messages:
+  PREFIX: "&7[&dNearX&7]:"
+  DONT_HAVE_PERMISSION: "У вас &dнет прав&7 на это!"
+  RELOAD_CONFIG: "Конфигурации плагина &dуспешно&7 перезагружены.\nЗагружено:\n &d{nears}&7 Near'ов"
+  ONLY_PLAYER: "Данная команда предназначена только для &dигроков&7."
+  NEAR_NOT_FOUND: "Near по имени {nearname} &dне найден&7."
+  NEAR_MESSAGE: "Игроки поблизости:"
+  NEAR_PART: "&7{player}: &c{view}&7"
+  NEAR_EMPTY: "Поблизости &dникого нет&7."
